@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+body{
+    background-color: black;
+    color:  #61af50;
+    font-family: dancing script;
+}
+
+h1, h2{
+    color:#3a90e5;
+    text-align: center;
+}
+h1{
+    font-size: 4em;
+}
+h2{
+    font-size: 35px;
+}
+p, li, figcaption{
+    font-size: xx-large;
+}

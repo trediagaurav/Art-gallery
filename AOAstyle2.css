@@ -1,0 +1,29 @@
+body {
+	background-color: #010615;
+	color: white;
+}
+input[type=text]{
+	width: 100px;
+	transition: width .35s ease-in-out;
+	color: #010615;
+}
+input[type=text]:focus {
+	width: 250px;
+	color: #010615;
+}
+.form{
+	color: #29c207b6;
+	font-family: sans-serif;
+}
+button{
+	border: none;
+	color: black;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 16px;
+  }
+  
